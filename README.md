@@ -1,4 +1,4 @@
-# HCIAssignment2-SyedBilalAmir
+# HCIAssignment3-SyedBilalAmir
 
 # Prototype
 <img width="343" alt="Screen Shot 2022-02-26 at 10 23 02 PM" src="https://user-images.githubusercontent.com/59744716/155866848-520f8e08-9cdc-4024-beb1-46a443b61311.png">
@@ -20,6 +20,8 @@
 
 # Links
 
-  Youtube: https://youtu.be/goCxNPJGFDs
+  Youtube: https://youtu.be/kWUkiCMRTgQ
+           https://youtu.be/oLH58iIeBfw
   
-  Figma: https://www.figma.com/file/oOI2UkzZgKq6uQCXpweTpm/Assignment-2?node-id=0%3A1
+  
+  Figma: https://www.figma.com/file/a2qlK5kWEkwsjm8HSX9OHa/Assignment-3?node-id=0%3A1

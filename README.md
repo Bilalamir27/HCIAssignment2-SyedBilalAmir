@@ -1,4 +1,5 @@
-# HCIAssignment3-SyedBilalAmir
+# HCIAssignment2
+-SyedBilalAmir
 
 # Prototype
 <img width="343" alt="Screen Shot 2022-02-26 at 10 23 02 PM" src="https://user-images.githubusercontent.com/59744716/155866848-520f8e08-9cdc-4024-beb1-46a443b61311.png">
